@@ -1,9 +1,0 @@
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\bin\Debug\Real estate managment system.exe.config
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\bin\Debug\Real estate managment system.exe
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\bin\Debug\Real estate managment system.pdb
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csprojAssemblyReference.cache
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real_estate_managment_system.Properties.Resources.resources
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.GenerateResource.cache
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.csproj.CoreCompileInputs.cache
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.exe
-C:\Users\kidus\Documents\GitHub\Real-Estate-Managment-System-Project\Real estate managment system\Real estate managment system\obj\Debug\Real estate managment system.pdb

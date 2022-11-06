@@ -1,0 +1,234 @@
+C:\Users\kidus\source\repos\Real estate project\Real estate project\bin\Debug\Real estate project.exe.config
+C:\Users\kidus\source\repos\Real estate project\Real estate project\bin\Debug\Real estate project.exe
+C:\Users\kidus\source\repos\Real estate project\Real estate project\bin\Debug\Real estate project.pdb
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real estate project.csprojAssemblyReference.cache
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.Login.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.Properties.Resources.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.GenerateResource.cache
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.CoreCompileInputs.cache
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real estate project.exe
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real estate project.pdb
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddClientPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMainPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAgentPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAdminPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ManageAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchClient.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAgent.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteClient.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAgent.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.PersonProfile.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForClient.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAgent.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAdmin.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteProperty.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyCard.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyType.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyType.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyType.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyType.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowClients.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAgents.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAdmins.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientMainPage.resources
+C:\Users\kidus\source\repos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentMainPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\bin\Debug\Real estate project.exe.config
+C:\Users\kidus\Videos\Real estate project\Real estate project\bin\Debug\Real estate project.exe
+C:\Users\kidus\Videos\Real estate project\Real estate project\bin\Debug\Real estate project.pdb
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real estate project.csprojAssemblyReference.cache
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientMainPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentMainPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteProperty.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyCard.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyType.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyType.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyType.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyType.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowClients.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAgents.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAdmins.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchClient.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAgent.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteClient.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAgent.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.PersonProfile.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForClient.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAgent.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAgentPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAdminPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddClientPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMainPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.Login.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ManageAdmin.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.Properties.Resources.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.GenerateResource.cache
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.CoreCompileInputs.cache
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real estate project.exe
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real estate project.pdb
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyAdminMenuPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentAdminMenuPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientAdminMenuPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMenuPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteSoldProperty.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowSoldProperty.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchSoldPropertyByTrans.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateSoldPropertyPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddSoldPropertyPage.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyToSellList.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyOwner.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyAgent.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSold.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListOwner.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListAgent.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellList.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchProperty.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowProperty.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ContainAdminMenu.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyTab.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyTab.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchPropertyTab.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyTab.resources
+C:\Users\kidus\Videos\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateProductTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.exe.config
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.exe
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.pdb
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ContainAdminMenu.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyAdminMenuPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentAdminMenuPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientAdminMenuPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMenuPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteSoldProperty.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchPropertyTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowSoldProperty.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchSoldPropertyByTrans.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateProductTab.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateSoldPropertyPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddSoldPropertyPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyToSellList.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyOwner.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyAgent.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSold.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListOwner.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListAgent.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellList.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientMainPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentMainPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteProperty.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyCard.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchProperty.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowProperty.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyType.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyType.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyType.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyType.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowClients.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAgents.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAdmins.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchClient.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAgent.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteClient.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAgent.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PersonProfile.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForClient.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAgent.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAgentPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAdminPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddClientPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMainPage.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.Login.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ManageAdmin.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.Properties.Resources.resources
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.GenerateResource.cache
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.exe
+C:\Users\Legion\Desktop\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.pdb
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.exe.config
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.exe
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\bin\Debug\Real estate project.pdb
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.AssemblyReference.cache
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyTab.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ContainAdminMenu.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyTab.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyAdminMenuPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentAdminMenuPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientAdminMenuPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMenuPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteSoldProperty.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchPropertyTab.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyTab.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowSoldProperty.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchSoldPropertyByTrans.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateProductTab.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateSoldPropertyPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddSoldPropertyPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyToSellList.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyOwner.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSoldbyAgent.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertytobeSold.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListOwner.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellListAgent.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyToSellList.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ClientMainPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AgentMainPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteProperty.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PropertyCard.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchProperty.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowProperty.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeletePropertyType.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowPropertyType.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdatePropertyType.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddPropertyType.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowClients.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAgents.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ShowAdmins.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchClient.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAgent.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.SearchAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteClient.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAgent.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.PersonProfile.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.DeleteAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForClient.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateClientForAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAgent.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.UpdateAgentForAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAgentPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddAdminPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AddClientPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.AdminMainPage.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.Login.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.ManageAdmin.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real_estate_project.Properties.Resources.resources
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.GenerateResource.cache
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.exe
+C:\Users\Legion\Music\2\Real estate project\Real estate project\Real estate project\obj\Debug\Real estate project.pdb

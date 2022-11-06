@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0470A36-58E0-49A7-AF24-44C0041AB267}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Real_estate_project</RootNamespace>
+    <AssemblyName>Real estate project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>start.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddPropertyTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPropertyTab.Designer.cs">
+      <DependentUpon>AddPropertyTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Agent.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="ContainAdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContainAdminMenu.Designer.cs">
+      <DependentUpon>ContainAdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBService.cs" />
+    <Compile Include="DeletePropertyTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePropertyTab.Designer.cs">
+      <DependentUpon>DeletePropertyTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="Property.cs" />
+    <Compile Include="PropertyAdminMenuPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyAdminMenuPage.Designer.cs">
+      <DependentUpon>PropertyAdminMenuPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgentAdminMenuPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgentAdminMenuPage.Designer.cs">
+      <DependentUpon>AgentAdminMenuPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientAdminMenuPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientAdminMenuPage.Designer.cs">
+      <DependentUpon>ClientAdminMenuPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMenuPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMenuPage.Designer.cs">
+      <DependentUpon>AdminMenuPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteSoldProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteSoldProperty.Designer.cs">
+      <DependentUpon>DeleteSoldProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyType.cs" />
+    <Compile Include="SearchPropertyTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchPropertyTab.Designer.cs">
+      <DependentUpon>SearchPropertyTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPropertyTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPropertyTab.Designer.cs">
+      <DependentUpon>ShowPropertyTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSoldProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSoldProperty.Designer.cs">
+      <DependentUpon>ShowSoldProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchSoldPropertyByTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchSoldPropertyByTrans.Designer.cs">
+      <DependentUpon>SearchSoldPropertyByTrans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProductTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProductTab.Designer.cs">
+      <DependentUpon>UpdateProductTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSoldPropertyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateSoldPropertyPage.Designer.cs">
+      <DependentUpon>UpdateSoldPropertyPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSoldPropertyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSoldPropertyPage.Designer.cs">
+      <DependentUpon>AddSoldPropertyPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPropertyToSellList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPropertyToSellList.Designer.cs">
+      <DependentUpon>AddPropertyToSellList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPropertytobeSoldbyOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPropertytobeSoldbyOwner.Designer.cs">
+      <DependentUpon>ShowPropertytobeSoldbyOwner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPropertytobeSoldbyAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPropertytobeSoldbyAgent.Designer.cs">
+      <DependentUpon>ShowPropertytobeSoldbyAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPropertytobeSold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPropertytobeSold.Designer.cs">
+      <DependentUpon>ShowPropertytobeSold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellListOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellListOwner.Designer.cs">
+      <DependentUpon>UpdatePropertyToSellListOwner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellListAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellListAgent.Designer.cs">
+      <DependentUpon>UpdatePropertyToSellListAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePropertyToSellList.Designer.cs">
+      <DependentUpon>UpdatePropertyToSellList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientMainPage.Designer.cs">
+      <DependentUpon>ClientMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgentMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgentMainPage.Designer.cs">
+      <DependentUpon>AgentMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteProperty.Designer.cs">
+      <DependentUpon>DeleteProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PropertyCard.Designer.cs">
+      <DependentUpon>PropertyCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchProperty.Designer.cs">
+      <DependentUpon>SearchProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowProperty.Designer.cs">
+      <DependentUpon>ShowProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePropertyPage .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePropertyPage .Designer.cs">
+      <DependentUpon>UpdatePropertyPage .cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPropertyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPropertyPage.Designer.cs">
+      <DependentUpon>AddPropertyPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePropertyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePropertyType.Designer.cs">
+      <DependentUpon>DeletePropertyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPropertyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPropertyType.Designer.cs">
+      <DependentUpon>ShowPropertyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePropertyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePropertyType.Designer.cs">
+      <DependentUpon>UpdatePropertyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPropertyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPropertyType.Designer.cs">
+      <DependentUpon>AddPropertyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowClients.Designer.cs">
+      <DependentUpon>ShowClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAgents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowAgents.Designer.cs">
+      <DependentUpon>ShowAgents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowAdmins.Designer.cs">
+      <DependentUpon>ShowAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchClient.Designer.cs">
+      <DependentUpon>SearchClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchAgent.Designer.cs">
+      <DependentUpon>SearchAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchAdmin.Designer.cs">
+      <DependentUpon>SearchAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteClient.Designer.cs">
+      <DependentUpon>DeleteClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteAgent.Designer.cs">
+      <DependentUpon>DeleteAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersonProfile.Designer.cs">
+      <DependentUpon>PersonProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteAdmin.Designer.cs">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateClientForClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateClientForClient.Designer.cs">
+      <DependentUpon>UpdateClientForClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateClientForAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateClientForAdmin.Designer.cs">
+      <DependentUpon>UpdateClientForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAdmin.Designer.cs">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateAgentForAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAgentForAgent.Designer.cs">
+      <DependentUpon>UpdateAgentForAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateAgentForAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAgentForAdmin.Designer.cs">
+      <DependentUpon>UpdateAgentForAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAgentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAgentPage.Designer.cs">
+      <DependentUpon>AddAgentPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdminPage.Designer.cs">
+      <DependentUpon>AddAdminPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddClientPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddClientPage.Designer.cs">
+      <DependentUpon>AddClientPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMainPage.Designer.cs">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageAdmin.Designer.cs">
+      <DependentUpon>ManageAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddPropertyTab.resx">
+      <DependentUpon>AddPropertyTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContainAdminMenu.resx">
+      <DependentUpon>ContainAdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePropertyTab.resx">
+      <DependentUpon>DeletePropertyTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyAdminMenuPage.resx">
+      <DependentUpon>PropertyAdminMenuPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgentAdminMenuPage.resx">
+      <DependentUpon>AgentAdminMenuPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientAdminMenuPage.resx">
+      <DependentUpon>ClientAdminMenuPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMenuPage.resx">
+      <DependentUpon>AdminMenuPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteSoldProperty.resx">
+      <DependentUpon>DeleteSoldProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPropertyTab.resx">
+      <DependentUpon>SearchPropertyTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPropertyTab.resx">
+      <DependentUpon>ShowPropertyTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSoldProperty.resx">
+      <DependentUpon>ShowSoldProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchSoldPropertyByTrans.resx">
+      <DependentUpon>SearchSoldPropertyByTrans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProductTab.resx">
+      <DependentUpon>UpdateProductTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateSoldPropertyPage.resx">
+      <DependentUpon>UpdateSoldPropertyPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSoldPropertyPage.resx">
+      <DependentUpon>AddSoldPropertyPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPropertyToSellList.resx">
+      <DependentUpon>AddPropertyToSellList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPropertytobeSoldbyOwner.resx">
+      <DependentUpon>ShowPropertytobeSoldbyOwner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPropertytobeSoldbyAgent.resx">
+      <DependentUpon>ShowPropertytobeSoldbyAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPropertytobeSold.resx">
+      <DependentUpon>ShowPropertytobeSold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePropertyToSellListOwner.resx">
+      <DependentUpon>UpdatePropertyToSellListOwner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePropertyToSellListAgent.resx">
+      <DependentUpon>UpdatePropertyToSellListAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePropertyToSellList.resx">
+      <DependentUpon>UpdatePropertyToSellList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientMainPage.resx">
+      <DependentUpon>ClientMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgentMainPage.resx">
+      <DependentUpon>AgentMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteProperty.resx">
+      <DependentUpon>DeleteProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyCard.resx">
+      <DependentUpon>PropertyCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchProperty.resx">
+      <DependentUpon>SearchProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowProperty.resx">
+      <DependentUpon>ShowProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePropertyPage .resx">
+      <DependentUpon>UpdatePropertyPage .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPropertyPage.resx">
+      <DependentUpon>AddPropertyPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePropertyType.resx">
+      <DependentUpon>DeletePropertyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPropertyType.resx">
+      <DependentUpon>ShowPropertyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePropertyType.resx">
+      <DependentUpon>UpdatePropertyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPropertyType.resx">
+      <DependentUpon>AddPropertyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowClients.resx">
+      <DependentUpon>ShowClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAgents.resx">
+      <DependentUpon>ShowAgents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAdmins.resx">
+      <DependentUpon>ShowAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchClient.resx">
+      <DependentUpon>SearchClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchAgent.resx">
+      <DependentUpon>SearchAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchAdmin.resx">
+      <DependentUpon>SearchAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteClient.resx">
+      <DependentUpon>DeleteClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAgent.resx">
+      <DependentUpon>DeleteAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonProfile.resx">
+      <DependentUpon>PersonProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAdmin.resx">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateClientForClient.resx">
+      <DependentUpon>UpdateClientForClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateClientForAdmin.resx">
+      <DependentUpon>UpdateClientForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAdmin.resx">
+      <DependentUpon>UpdateAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAgentForAgent.resx">
+      <DependentUpon>UpdateAgentForAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAgentForAdmin.resx">
+      <DependentUpon>UpdateAgentForAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAgentPage.resx">
+      <DependentUpon>AddAgentPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdminPage.resx">
+      <DependentUpon>AddAdminPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddClientPage.resx">
+      <DependentUpon>AddClientPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMainPage.resx">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageAdmin.resx">
+      <DependentUpon>ManageAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="start.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
